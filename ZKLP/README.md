@@ -157,3 +157,9 @@ What is the plan for this project from now on? Do you plan to continue to work o
 - Highlight reusable code patterns, key code snippets, and best practices - what are some of the ‘lego bricks’ you’ve built, and how could someone else best use them?
 
 ## Project Links (For Submission)
+
+https://github.com/Privacy-Lab-Latam-Builders/moodle-web3
+
+## Video Demo (For Submission)
+
+Please provide a link to a video demo of your project. The demo should be no longer than 5 minutes.
